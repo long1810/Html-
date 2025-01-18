@@ -1,0 +1,12 @@
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\bin\Debug\HtmlPdf.dll.config
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\bin\Debug\HtmlPdf.dll
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\bin\Debug\HtmlPdf.pdb
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\bin\Debug\BSS.dll
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\bin\Debug\Newtonsoft.Json.dll
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\obj\Debug\HtmlPdf.csproj.AssemblyReference.cache
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\obj\Debug\HtmlPdf.Properties.Resources.resources
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\obj\Debug\HtmlPdf.csproj.GenerateResource.cache
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\obj\Debug\HtmlPdf.csproj.CoreCompileInputs.cache
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\obj\Debug\HtmlPdf.csproj.CopyComplete
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\obj\Debug\HtmlPdf.dll
+D:\ổ mã hóa\A_HTML_TO_PDF\HtmlPdf\obj\Debug\HtmlPdf.pdb
