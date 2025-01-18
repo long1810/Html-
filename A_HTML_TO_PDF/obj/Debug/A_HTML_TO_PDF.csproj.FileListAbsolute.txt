@@ -1,0 +1,12 @@
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\bin\Debug\A_HTML_TO_PDF.pdb
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\bin\Debug\BSS.dll
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\bin\Debug\Newtonsoft.Json.dll
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\obj\Debug\A_HTML_TO_PDF.csproj.AssemblyReference.cache
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\obj\Debug\A_HTML_TO_PDF.Properties.Resources.resources
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\obj\Debug\A_HTML_TO_PDF.csproj.GenerateResource.cache
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\obj\Debug\A_HTML_TO_PDF.csproj.CoreCompileInputs.cache
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\obj\Debug\A_HTML_TO_PDF.csproj.CopyComplete
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\obj\Debug\A_HTML_TO_PDF.pdb
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\bin\Debug\A_HTML_TO_PDF.dll.config
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\bin\Debug\A_HTML_TO_PDF.dll
+D:\ổ mã hóa\A_HTML_TO_PDF\A_HTML_TO_PDF\obj\Debug\A_HTML_TO_PDF.dll
